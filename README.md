@@ -21,9 +21,6 @@ Below are highlights of the character models and environment design.
 * ![Stand Comparison](documentation/stand-model-comparison.jpg)
 * ![The World & King Crimson](documentation/the-world-king-crimson-models.jpg)
 
-### Environment & Props
-* ![Street View](documentation/morioh-town-street-view.jpg)
-* ![Custom Accessories](documentation/custom-stand-accessories.jpg)
 </details>
 
 ---
