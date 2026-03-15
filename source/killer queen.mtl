@@ -1,0 +1,32 @@
+newmtl Head1Mtl
+Material Color
+Ka 0.812241 0.499505 0.585973
+Kd 0.812241 0.499505 0.585973
+Ke 0 0 0
+Ks 0.321711 0.197843 0.232091 
+
+d 1
+
+Ns 0
+
+map_Ka Head1_diff.png
+map_Kd Head1_diff.png
+map_d Head1_diff.png
+
+map_Bump Head1_nmap.png
+
+newmtl Dummy1Mtl
+Material Color
+Ka 0.751895 0.453456 0.638779
+Kd 0.751895 0.453456 0.638779
+Ke 0 0 0
+Ks 0.297809 0.179604 0.253007 
+
+d 1
+
+Ns 0
+
+map_Ka Dummy1_diff.png
+map_Kd Dummy1_diff.png
+map_d Dummy1_diff.png
+
